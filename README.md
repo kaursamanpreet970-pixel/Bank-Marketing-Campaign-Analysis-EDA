@@ -158,7 +158,7 @@ The success rate is **13.0%** on the first contact and falls to about **5%** by 
 
 | `banking_project.ipyn` | Complete, reproducible analysis notebook with code, results and written insights |
 | `images/` | The six charts used in this README |
-| Project PDF | Notebook exported as a PDF for easy sharing | 
+| Project PDF | Notebook exported as a PDF for easy sharing |
 
 ---
 
@@ -191,6 +191,6 @@ The success rate is **13.0%** on the first contact and falls to about **5%** by 
 
 **SAMANPREET KAUR**
 
-- LinkedIn: [linkedin.com/in/your-profile](hhttps://www.linkedin.com/in/kaursamanpreet/)
+- LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/kaursamanpreet/)
 - Email: [your.email@example.com](mailto:kaursamanpreet970@outlook.com)
 - GitHub: [github.com/your-username](https://github.com/kaursamanpreet970-pixel)
